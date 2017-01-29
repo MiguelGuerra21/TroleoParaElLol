@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VisionadorMariolol()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ VisionadorMariolol\r\n
+comment1.params=
+comment1.target=void\ escogerDa\u00F1o()
+comment2.params=
+comment2.target=void\ escogerLinea()
+comment3.params=
+comment3.target=void\ escogerCampeon()
+comment4.params=
+comment4.target=void\ escogerTodo()
+numComments=5
